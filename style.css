@@ -1,0 +1,16 @@
+body {
+   background-image: url(/modo-web-diseno-de-pagina-web-fondo-16-1.jpg);   
+}
+
+table th, td {
+     border: 1px solid antiquewhite;
+}     
+
+table {
+    width: 1900px;
+    height: 900px;
+}
+
+th, td {
+color: antiquewhite;
+}
